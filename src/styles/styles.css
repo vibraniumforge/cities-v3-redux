@@ -1,0 +1,13 @@
+.city-table {
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+
+.city-list {
+  font-weight: bold;
+  color: black;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
